@@ -1,1 +1,0 @@
-# WordSpeller-NNAF
