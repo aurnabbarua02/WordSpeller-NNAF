@@ -5,3 +5,8 @@ Software: Microsoft Visual studio
 Programming language: c++
 
 Necessary Library: igraphics
+
+
+https://github.com/aurnabbarua02/WordSpeller-NNAF/assets/129601494/bb6d63ca-e8e4-46a5-93cf-2e7412591d4b
+
+
