@@ -2,7 +2,7 @@ WordSpeller NNAF is basically a mini game project which is developed using c++. 
 
 Software: Microsoft Visual studio
 
-Programming language: c++
+Programming language: C, C++
 
 Necessary Library: igraphics
 
