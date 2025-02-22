@@ -1,10 +1,10 @@
-WordSpeller NNAF is basically a mini game project which is developed using c++. In this game, a user have to guess a correct word based on a given hint. If the user can guess a correct word, then he/she can go to next level.
-
-Software: Microsoft Visual studio
-
-Programming language: C, C++
-
-Necessary Library: igraphics
+<h2>WordSpeller NNAF – Mini Word Guessing Game</h2>
+<p>WordSpeller NNAF is a mini-game project developed using C++, designed to enhance word recognition and problem-solving skills. In this game, the player must guess the correct word based on a provided hint. Upon successfully identifying the word, the player advances to the next level for an increasingly challenging experience.</p>
+<br>
+<b>Technologies Used:</b>
+<li>Development Environment: Microsoft Visual Studio</li>
+<li>Programming Languages: C, C++</li>
+<li>Required Library: iGraphics</li>
 
 
 https://github.com/aurnabbarua02/WordSpeller-NNAF/assets/129601494/bb6d63ca-e8e4-46a5-93cf-2e7412591d4b
